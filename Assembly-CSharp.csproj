@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Base Objects\Mouse.cs" />
     <Compile Include="Assets\VFX\GabrielAguiarProductions\Unique_Projectiles_Volume_1\_Tutorial\Scripts\ProjectileMove.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem\BasicHealthSystem.cs" />
     <Compile Include="Assets\Scripts\UI\HealthBar.cs" />
     <Compile Include="Assets\Scenes\Horde\WalkToTheTarget.cs" />
     <Compile Include="Assets\Scenes\Horde\HordeSpawner\SpawnMonsters.cs" />
@@ -78,7 +79,6 @@
     <Compile Include="Assets\Scripts\UI\Coldown\ColdownBrain.cs" />
     <Compile Include="Assets\Scripts\UI\Menu\MenuMeneger.cs" />
     <Compile Include="Assets\VFX\GabrielAguiarProductions\Unique_Projectiles_Volume_1\_Tutorial\Scripts\RotateToMouse.cs" />
-    <Compile Include="Assets\Scripts\HealthSystem\BasicHealthSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Text\TextMesh Pro\Shaders\TMPro.cginc" />
